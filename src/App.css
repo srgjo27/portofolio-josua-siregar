@@ -110,6 +110,10 @@ nav.navbar.scrolled {
     background-color: #121212;
 }
 
+.navbar-brand {
+    color: white !important;
+}
+
 nav.navbar a.navbar-brand {
     width: 9%;
 }

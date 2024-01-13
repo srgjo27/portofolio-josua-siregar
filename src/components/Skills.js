@@ -30,7 +30,7 @@ export const Skills = () => {
         <section className="skill" id="skills">
             <Container>
                 <Row>
-                    <Col>
+                    <Col xl={12}>
                         <div className="skill-bx wow zoomIn">
                             <h2>Skills</h2>
                             <p>
